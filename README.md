@@ -1,14 +1,14 @@
 # recurse_center_projects
 Ideas for projects at the RC
 
-E-Learning
-Data Science
-Algorithms
-R
-Cracking the coding Interview
-Problem Solving Class
-Complete all w3 school tutorials
-http://rr-project.org
+* E-Learning
+* Data Science
+* Algorithms
+* R
+* Cracking the coding Interview
+* Problem Solving Class
+* Complete all w3 school tutorials
+* http://rr-project.org
 
 
 ##Projects
@@ -41,12 +41,22 @@ http://rr-project.org
 
 * Make an interactive map of my life and travels and history and timeline
 
-##Frameworks and Libraries
+##Frameworks and Libraries and Databases
 * User cake base css
 * http://adv-r.had.co.nz/
 * Laravel + Other PHP
 * Django + Flask
 * Ruby on Rails
 * Node / Angular / Firebase
+* Neo4j, NoSql, MongoDB, 
+
+##Display data from multiple API's
+
+* Spotify
+* Google
+* Facebook
+* Instagram
+* Yelp
+* Foursquare
 
 
