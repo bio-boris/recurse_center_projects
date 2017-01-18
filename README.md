@@ -8,6 +8,7 @@ R
 Cracking the coding Interview
 Problem Solving Class
 Complete all w3 school tutorials
+http://rr-project.org
 
 
 ##Projects
@@ -20,28 +21,32 @@ Complete all w3 school tutorials
  2. recreate terminal
  3. crate multiple terminals
 
+* Write a camera app that uploads fitness data to website
 
 * How many Google searches am I doing a day? Plot the data over a month. Show a tabular result 
 
 * Create a budget software that shows money in and money out
-*  $Green = 
-*  $Other Green = Savings
-* $Other green = retirement
-* $Red = Loan Debt
-* $Blue = Utilities
-* $orange = Subscriptions
-* $pink = Amazon
-* yellow = groceries
-* gas / insurances 
-* taxes
+ *  $Green = 
+ *  $Other Green = Savings
+ * $Other green = retirement
+ * $Red = Loan Debt
+ * $Blue = Utilities
+ * $orange = Subscriptions
+ * $pink = Amazon
+ * yellow = groceries
+ * gas / insurances 
+ * taxes
 
-Write my own Google keep
+* Write my own Google keep
 
-Make a map of my life and travels and history and timeline
+* Make an interactive map of my life and travels and history and timeline
 
-http://rr-project.org
-User cake base css
-http://adv-r.had.co.nz/
-Write a camera app  that uploads fitness to website
-decide which css/jquery/php5 oreilly books to read and start reading them at work
+##Frameworks and Libraries
+* User cake base css
+* http://adv-r.had.co.nz/
+* Laravel + Other PHP
+* Django + Flask
+* Ruby on Rails
+* Node / Angular / Firebase
+
 
